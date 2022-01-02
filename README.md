@@ -1,6 +1,6 @@
 # Estimating local prevalence of obesity via survey under cost constraints: Stratifying ZCTAs in Virginia's Thomas Jefferson Health District
 
-This is some of the code used to generate the results found in the paper 'Estimating local prevalence of obesity via survey under cost constraints: Stratifying ZCTAs in Virginia's Thomas Jefferson Health District' 
+This repository contains code to recreate some of the analysis found in the paper 'Estimating local prevalence of obesity via survey under cost constraints: Stratifying ZCTAs in Virginia's Thomas Jefferson Health District' 
 by Lobo B., Bonds, D., and Kafadar, K. that appears in Statistics and Public Policy.
 
 ### Publication Information
