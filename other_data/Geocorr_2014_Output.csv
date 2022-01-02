@@ -1,0 +1,1244 @@
+zcta5,county14,county,cntyname2,zipname,hus10,afact
+ZIP Census Tabulation Area,county14,county,Current County,zipname,"Total HUs, 2010 census",zcta5 to county14 alloc factor
+20105,51107, ,Loudoun VA,"Stone Ridge, VA",3855,1
+20106,51047, ,Culpeper VA,"Amissville, VA",1142,0.56
+20106,51061, ,Fauquier VA,"Amissville, VA",81,0.04
+20106,51157, ,Rappahannock VA,"Amissville, VA",817,0.4
+20109,51153, ,Prince William VA,"Sudley, VA",13522,0.995
+20109,51683, ,Manassas city VA,"Sudley, VA",62,0.005
+20110,51153, ,Prince William VA,"Manassas, VA",1653,0.112
+20110,51683, ,Manassas city VA,"Manassas, VA",13061,0.888
+20111,51153, ,Prince William VA,"Manassas Park, VA",5170,0.513
+20111,51685, ,Manassas Park city VA,"Manassas Park, VA",4904,0.487
+20112,51153, ,Prince William VA,"Manassas, VA",8448,1
+20115,51061, ,Fauquier VA,"Marshall, VA",2522,1
+20117,51061, ,Fauquier VA,"Middleburg, VA",109,0.074
+20117,51107, ,Loudoun VA,"Middleburg, VA",1360,0.926
+20118,51107, ,Loudoun VA,"Middleburg, VA",3,1
+20119,51061, ,Fauquier VA,"Catlett, VA",1515,1
+20120,51059, ,Fairfax VA,"Centreville, VA",14210,1
+20120,51107, ,Loudoun VA,"Centreville, VA",7,0
+20121,51059, ,Fairfax VA,"Centreville, VA",10357,1
+20124,51059, ,Fairfax VA,"Centreville, VA",5052,1
+20129,51107, ,Loudoun VA,"Paeonian Springs, VA",216,1
+20130,51043, ,Clarke VA,"Paris, VA",121,0.752
+20130,51061, ,Fauquier VA,"Paris, VA",40,0.248
+20132,51107, ,Loudoun VA,"Purcellville, VA",5466,1
+20135,51043, ,Clarke VA,"Bluemont, VA",898,0.695
+20135,51107, ,Loudoun VA,"Bluemont, VA",395,0.305
+20136,51153, ,Prince William VA,"Linton Hall, VA",8483,1
+20137,51061, ,Fauquier VA,"Broad Run, VA",414,0.714
+20137,51153, ,Prince William VA,"Broad Run, VA",166,0.286
+20139,51061, ,Fauquier VA,"Casanova, VA (PO Boxes)",100,1
+20141,51107, ,Loudoun VA,"Round Hill, VA",2116,1
+20143,51153, ,Prince William VA,"Catharpin, VA",408,1
+20144,51061, ,Fauquier VA,"Delaplane, VA",496,1
+20147,51107, ,Loudoun VA,"Ashburn, VA",19719,1
+20148,51107, ,Loudoun VA,"Broadlands, VA",9170,1
+20151,51059, ,Fairfax VA,"Chantilly, VA",6828,1
+20152,51107, ,Loudoun VA,"South Riding, VA",7876,1
+20155,51153, ,Prince William VA,"Gainesville, VA",10357,1
+20158,51107, ,Loudoun VA,"Hamilton, VA",1588,1
+20164,51107, ,Loudoun VA,"Sterling, VA",12565,1
+20165,51107, ,Loudoun VA,"Cascades, VA",11774,1
+20166,51107, ,Loudoun VA,"Dulles Town Center, VA",3464,1
+20169,51153, ,Prince William VA,"Haymarket, VA",6746,1
+20170,51059, ,Fairfax VA,"Herndon, VA",13713,1
+20171,51059, ,Fairfax VA,"McNair, VA",16823,1
+20175,51107, ,Loudoun VA,"Leesburg, VA",10083,1
+20176,51107, ,Loudoun VA,"Leesburg, VA",16166,1
+20180,51107, ,Loudoun VA,"Lovettsville, VA",2395,1
+20181,51061, ,Fauquier VA,"Nokesville, VA",299,0.108
+20181,51153, ,Prince William VA,"Nokesville, VA",2459,0.892
+20184,51061, ,Fauquier VA,"Upperville, VA",265,0.563
+20184,51107, ,Loudoun VA,"Upperville, VA",206,0.437
+20186,51047, ,Culpeper VA,"Warrenton, VA",9,0.002
+20186,51061, ,Fauquier VA,"Warrenton, VA",5968,0.998
+20187,51061, ,Fauquier VA,"New Baltimore, VA",5343,1
+20190,51059, ,Fairfax VA,"Reston, VA",9231,1
+20191,51059, ,Fairfax VA,"Reston, VA",12071,1
+20194,51059, ,Fairfax VA,"Reston, VA",5900,1
+20197,51107, ,Loudoun VA,"Waterford, VA",661,1
+20198,51061, ,Fauquier VA,"The Plains, VA",1229,1
+22003,51059, ,Fairfax VA,"Annandale, VA",19923,1
+22015,51059, ,Fairfax VA,"Burke, VA",15133,1
+22025,51153, ,Prince William VA,"Montclair, VA",6235,1
+22026,51153, ,Prince William VA,"Cherry Hill, VA",4737,1
+22027,51059, ,Fairfax VA,"Dunn Loring, VA",781,1
+22030,51059, ,Fairfax VA,"Fairfax, VA",12809,0.657
+22030,51600, ,Fairfax city VA,"Fairfax, VA",6678,0.343
+22031,51059, ,Fairfax VA,"Merrifield, VA",10421,0.865
+22031,51600, ,Fairfax city VA,"Merrifield, VA",1627,0.135
+22032,51059, ,Fairfax VA,"Kings Park West, VA",9634,0.963
+22032,51600, ,Fairfax city VA,"Kings Park West, VA",375,0.037
+22033,51059, ,Fairfax VA,"Fair Oaks, VA",16083,1
+22039,51059, ,Fairfax VA,"Crosspointe, VA",6104,1
+22041,51059, ,Fairfax VA,"Baileys Crossroads, VA",11174,1
+22042,51059, ,Fairfax VA,"West Falls Church, VA",12404,0.993
+22042,51610, ,Falls Church city VA,"West Falls Church, VA",91,0.007
+22043,51059, ,Fairfax VA,"Idylwood, VA",9767,1
+22044,51059, ,Fairfax VA,"Seven Corners, VA",5008,0.848
+22044,51610, ,Falls Church city VA,"Seven Corners, VA",901,0.152
+22046,51059, ,Fairfax VA,"Falls Church, VA",2158,0.325
+22046,51610, ,Falls Church city VA,"Falls Church, VA",4491,0.675
+22060,51059, ,Fairfax VA,"Fort Belvoir, VA",2928,1
+22066,51059, ,Fairfax VA,"Great Falls, VA",5697,0.941
+22066,51107, ,Loudoun VA,"Great Falls, VA",357,0.059
+22079,51059, ,Fairfax VA,"Lorton, VA",11245,1
+22101,51013, ,Arlington VA,"McLean, VA",20,0.002
+22101,51059, ,Fairfax VA,"McLean, VA",11325,0.998
+22102,51059, ,Fairfax VA,"Tysons Corner, VA",10608,1
+22124,51059, ,Fairfax VA,"Oakton, VA",6834,1
+22125,51153, ,Prince William VA,"Occoquan, VA",400,1
+22134,51153, ,Prince William VA,"Quantico Base, VA",1378,0.999
+22134,51179, ,Stafford VA,"Quantico Base, VA",1,0.001
+22150,51059, ,Fairfax VA,"Springfield, VA",9489,1
+22151,51059, ,Fairfax VA,"North Springfield, VA",5932,1
+22152,51059, ,Fairfax VA,"West Springfield, VA",10636,1
+22153,51059, ,Fairfax VA,"Newington Forest, VA",10676,1
+22172,51153, ,Prince William VA,"Triangle, VA",3361,1
+22180,51059, ,Fairfax VA,"Vienna, VA",8812,1
+22181,51059, ,Fairfax VA,"Oakton, VA",5519,1
+22182,51059, ,Fairfax VA,"Wolf Trap, VA",9143,1
+22191,51153, ,Prince William VA,"Marumsco, VA",20329,1
+22192,51153, ,Prince William VA,"Lake Ridge, VA",20113,1
+22193,51153, ,Prince William VA,"Dale City, VA",23150,1
+22201,51013, ,Arlington VA,"Arlington, VA",18985,1
+22202,51013, ,Arlington VA,"Arlington, VA",15278,1
+22203,51013, ,Arlington VA,"Arlington, VA",12018,1
+22204,51013, ,Arlington VA,"Arlington, VA",21078,1
+22205,51013, ,Arlington VA,"Arlington, VA",6622,0.999
+22205,51610, ,Falls Church city VA,"Arlington, VA",6,0.001
+22206,51013, ,Arlington VA,"Arlington, VA",10440,0.977
+22206,51510, ,Alexandria city VA,"Arlington, VA",249,0.023
+22207,51013, ,Arlington VA,"Arlington, VA",11696,0.997
+22207,51059, ,Fairfax VA,"Arlington, VA",33,0.003
+22209,51013, ,Arlington VA,"Arlington, VA",7975,1
+22211,51013, ,Arlington VA,"Arlington, VA",61,1
+22213,51013, ,Arlington VA,"Arlington, VA",1231,1
+22301,51510, ,Alexandria city VA,"Alexandria, VA",5017,1
+22302,51059, ,Fairfax VA,"Alexandria, VA",669,0.075
+22302,51510, ,Alexandria city VA,"Alexandria, VA",8266,0.925
+22303,51059, ,Fairfax VA,"Huntington, VA",6858,1
+22304,51059, ,Fairfax VA,"Alexandria, VA",76,0.003
+22304,51510, ,Alexandria city VA,"Alexandria, VA",22890,0.997
+22305,51510, ,Alexandria city VA,"Alexandria, VA",6863,1
+22306,51059, ,Fairfax VA,"Hybla Valley, VA",12312,1
+22307,51059, ,Fairfax VA,"Belle Haven, VA",4655,1
+22308,51059, ,Fairfax VA,"Fort Hunt, VA",4741,1
+22309,51059, ,Fairfax VA,"Woodlawn, VA",12264,1
+22310,51059, ,Fairfax VA,"Rose Hill, VA",11818,1
+22311,51059, ,Fairfax VA,"Alexandria, VA",437,0.05
+22311,51510, ,Alexandria city VA,"Alexandria, VA",8307,0.95
+22312,51059, ,Fairfax VA,"Lincolnia, VA",8719,0.732
+22312,51510, ,Alexandria city VA,"Lincolnia, VA",3200,0.268
+22314,51510, ,Alexandria city VA,"Alexandria, VA",17584,1
+22315,51059, ,Fairfax VA,"Kingstowne, VA",10988,1
+22401,51630, ,Fredericksburg city VA,"Fredericksburg, VA",10467,1
+22405,51179, ,Stafford VA,"Fredericksburg, VA",10632,1
+22406,51061, ,Fauquier VA,"Fredericksburg, VA",6,0.001
+22406,51179, ,Stafford VA,"Fredericksburg, VA",7689,0.999
+22407,51177, ,Spotsylvania VA,"Fredericksburg, VA",19758,1
+22408,51033, ,Caroline VA,"Fredericksburg, VA",98,0.01
+22408,51177, ,Spotsylvania VA,"Fredericksburg, VA",9630,0.99
+22427,51033, ,Caroline VA,"Bowling Green, VA",1318,1
+22432,51133, ,Northumberland VA,"Burgess, VA",241,1
+22433,51137, ,Orange VA,"Burr Hill, VA",89,1
+22435,51133, ,Northumberland VA,"Callao, VA",1136,0.952
+22435,51159, ,Richmond VA,"Callao, VA",45,0.038
+22435,51193, ,Westmoreland VA,"Callao, VA",12,0.01
+22436,51057, ,Essex VA,"Caret, VA",323,1
+22437,51057, ,Essex VA,"Center Cross, VA",429,0.868
+22437,51097, ,King and Queen VA,"Center Cross, VA",65,0.132
+22438,51057, ,Essex VA,"Champlain, VA",232,1
+22443,51193, ,Westmoreland VA,"Colonial Beach, VA",4807,1
+22448,51099, ,King George VA,"Dahlgren Center, VA",192,1
+22454,51057, ,Essex VA,"Dunnsville, VA",1184,1
+22460,51159, ,Richmond VA,"Farnham, VA",1082,1
+22469,51193, ,Westmoreland VA,"Hague, VA",1346,1
+22473,51103, ,Lancaster VA,"Heathsville, VA",41,0.011
+22473,51133, ,Northumberland VA,"Heathsville, VA",3577,0.989
+22476,51057, ,Essex VA,"Hustle, VA",170,1
+22480,51103, ,Lancaster VA,"Irvington, VA",601,1
+22482,51103, ,Lancaster VA,"Kilmarnock, VA",1092,0.578
+22482,51133, ,Northumberland VA,"Kilmarnock, VA",797,0.422
+22485,51099, ,King George VA,"King George, VA",9285,0.999
+22485,51193, ,Westmoreland VA,"King George, VA",8,0.001
+22488,51193, ,Westmoreland VA,"Kinsale, VA",888,1
+22503,51103, ,Lancaster VA,"Lancaster, VA",2812,1
+22504,51057, ,Essex VA,"Laneview, VA",134,0.876
+22504,51119, ,Middlesex VA,"Laneview, VA",19,0.124
+22508,51137, ,Orange VA,"Lake of the Woods, VA",5326,0.937
+22508,51177, ,Spotsylvania VA,"Lake of the Woods, VA",360,0.063
+22509,51057, ,Essex VA,"Loretto, VA",18,1
+22511,51133, ,Northumberland VA,"Lottsburg, VA",1007,1
+22514,51033, ,Caroline VA,"Milford, VA",1096,0.995
+22514,51097, ,King and Queen VA,"Milford, VA",5,0.005
+22520,51193, ,Westmoreland VA,"Montross, VA",3268,1
+22529,51193, ,Westmoreland VA,"Oldhams, VA (PO Boxes)",161,1
+22530,51133, ,Northumberland VA,"Ophelia, VA (PO Boxes)",192,1
+22534,51177, ,Spotsylvania VA,"Partlow, VA",990,1
+22535,51033, ,Caroline VA,"Port Royal, VA",284,1
+22538,51033, ,Caroline VA,"Rappahannock Academy, VA",133,1
+22539,51133, ,Northumberland VA,"Reedville, VA",1921,1
+22542,51137, ,Orange VA,"Rhoadesville, VA",758,1
+22546,51033, ,Caroline VA,"Ruther Glen, VA",6279,0.969
+22546,51085, ,Hanover VA,"Ruther Glen, VA",200,0.031
+22548,51159, ,Richmond VA,"Sharps, VA (PO Boxes)",69,1
+22551,51177, ,Spotsylvania VA,"Spotsylvania, VA",7274,1
+22553,51177, ,Spotsylvania VA,"Spotsylvania, VA",4975,1
+22554,51179, ,Stafford VA,"Stafford, VA",17173,1
+22556,51179, ,Stafford VA,"Stafford, VA",8483,1
+22560,51057, ,Essex VA,"Tappahannock, VA",3110,0.972
+22560,51097, ,King and Queen VA,"Tappahannock, VA",88,0.028
+22567,51137, ,Orange VA,"Unionville, VA",1227,1
+22572,51159, ,Richmond VA,"Warsaw, VA",2654,0.954
+22572,51193, ,Westmoreland VA,"Warsaw, VA",128,0.046
+22576,51103, ,Lancaster VA,"Weems, VA",1055,1
+22578,51103, ,Lancaster VA,"White Stone, VA",1801,1
+22579,51133, ,Northumberland VA,"Wicomico Church, VA (PO Boxes)",124,1
+22580,51033, ,Caroline VA,"Woodford, VA",1926,0.915
+22580,51177, ,Spotsylvania VA,"Woodford, VA",178,0.085
+22601,51069, ,Frederick VA,"Winchester, VA",649,0.052
+22601,51840, ,Winchester city VA,"Winchester, VA",11872,0.948
+22602,51069, ,Frederick VA,"Winchester, VA",11156,1
+22603,51069, ,Frederick VA,"Winchester, VA",5671,1
+22610,51187, ,Warren VA,"Bentonville, VA",898,1
+22611,51043, ,Clarke VA,"Berryville, VA",3676,1
+22620,51043, ,Clarke VA,"Boyce, VA",1147,1
+22623,51157, ,Rappahannock VA,"Chester Gap, VA",212,0.782
+22623,51187, ,Warren VA,"Chester Gap, VA",59,0.218
+22624,51069, ,Frederick VA,"Clear Brook, VA",999,1
+22625,51069, ,Frederick VA,"Lake Holiday, VA",1534,1
+22627,51157, ,Rappahannock VA,"Flint Hill, VA",362,1
+22630,51043, ,Clarke VA,"Front Royal, VA",11,0.001
+22630,51061, ,Fauquier VA,"Front Royal, VA",6,0
+22630,51069, ,Frederick VA,"Front Royal, VA",217,0.017
+22630,51187, ,Warren VA,"Front Royal, VA",12622,0.982
+22637,51069, ,Frederick VA,"Gore, VA",881,1
+22639,51061, ,Fauquier VA,"Hume, VA",267,1
+22640,51157, ,Rappahannock VA,"Huntly, VA",284,1
+22641,51171, ,Shenandoah VA,"Strasburg, VA",178,1
+22642,51061, ,Fauquier VA,"Linden, VA",342,0.181
+22642,51187, ,Warren VA,"Linden, VA",1552,0.819
+22643,51061, ,Fauquier VA,"Markham, VA",95,1
+22644,51171, ,Shenandoah VA,"Maurertown, VA",1057,1
+22645,51069, ,Frederick VA,"Middletown, VA",1186,0.708
+22645,51187, ,Warren VA,"Middletown, VA",489,0.292
+22646,51043, ,Clarke VA,"Millwood, VA (PO Boxes)",107,1
+22650,51139, ,Page VA,"Rileyville, VA",541,1
+22652,51171, ,Shenandoah VA,"Fort Valley, VA",810,1
+22654,51069, ,Frederick VA,"Star Tannery, VA",282,0.754
+22654,51171, ,Shenandoah VA,"Star Tannery, VA",92,0.246
+22655,51069, ,Frederick VA,"Stephens City, VA",7521,0.995
+22655,51187, ,Warren VA,"Stephens City, VA",38,0.005
+22656,51069, ,Frederick VA,"Stephenson, VA",947,1
+22657,51171, ,Shenandoah VA,"Strasburg, VA",4587,0.924
+22657,51187, ,Warren VA,"Strasburg, VA",376,0.076
+22660,51171, ,Shenandoah VA,"Toms Brook, VA",749,1
+22663,51043, ,Clarke VA,"White Post, VA",275,0.476
+22663,51069, ,Frederick VA,"White Post, VA",303,0.524
+22664,51171, ,Shenandoah VA,"Woodstock, VA",4013,1
+22701,51047, ,Culpeper VA,"Culpeper, VA",11833,0.955
+22701,51113, ,Madison VA,"Culpeper, VA",240,0.019
+22701,51137, ,Orange VA,"Culpeper, VA",321,0.026
+22709,51113, ,Madison VA,"Aroda, VA",369,1
+22711,51113, ,Madison VA,"Banco, VA",43,1
+22712,51061, ,Fauquier VA,"Bealeton, VA",3013,1
+22713,51047, ,Culpeper VA,"Boston, VA",465,0.769
+22713,51157, ,Rappahannock VA,"Boston, VA",140,0.231
+22714,51047, ,Culpeper VA,"Brandy Station, VA",416,1
+22715,51113, ,Madison VA,"Brightwood, VA",451,1
+22716,51157, ,Rappahannock VA,"Castleton, VA",434,1
+22718,51047, ,Culpeper VA,"Elkwood, VA",223,1
+22719,51113, ,Madison VA,"Etlan, VA",245,1
+22720,51061, ,Fauquier VA,"Goldvein, VA",445,1
+22722,51113, ,Madison VA,"Haywood, VA",121,1
+22723,51113, ,Madison VA,"Hood, VA (PO Boxes)",61,1
+22724,51047, ,Culpeper VA,"Jeffersonton, VA",825,1
+22726,51047, ,Culpeper VA,"Lignum, VA",276,1
+22727,51113, ,Madison VA,"Madison, VA",2471,1
+22728,51061, ,Fauquier VA,"Midland, VA",1241,1
+22729,51047, ,Culpeper VA,"Mitchells, VA",58,1
+22730,51113, ,Madison VA,"Oakpark, VA",52,1
+22731,51113, ,Madison VA,"Pratts, VA",60,1
+22732,51113, ,Madison VA,"Radiant, VA",80,1
+22733,51047, ,Culpeper VA,"Rapidan, VA",305,0.546
+22733,51113, ,Madison VA,"Rapidan, VA",20,0.036
+22733,51137, ,Orange VA,"Rapidan, VA",234,0.419
+22734,51047, ,Culpeper VA,"Remington, VA",63,0.054
+22734,51061, ,Fauquier VA,"Remington, VA",1109,0.946
+22735,51047, ,Culpeper VA,"Reva, VA",526,0.581
+22735,51113, ,Madison VA,"Reva, VA",379,0.419
+22736,51047, ,Culpeper VA,"Richardsville, VA",269,1
+22737,51047, ,Culpeper VA,"Rixeyville, VA",1144,1
+22738,51113, ,Madison VA,"Rochelle, VA",491,1
+22740,51047, ,Culpeper VA,"Sperryville, VA",23,0.03
+22740,51113, ,Madison VA,"Sperryville, VA",14,0.018
+22740,51157, ,Rappahannock VA,"Sperryville, VA",720,0.951
+22741,51047, ,Culpeper VA,"Stevensburg, VA",80,1
+22742,51061, ,Fauquier VA,"Sumerduck, VA",695,1
+22743,51113, ,Madison VA,"Syria, VA",163,1
+22747,51157, ,Rappahannock VA,"Washington, VA",676,1
+22749,51157, ,Rappahannock VA,"Woodville, VA",194,1
+22801,51165, ,Rockingham VA,"Harrisonburg, VA",4088,0.291
+22801,51660, ,Harrisonburg city VA,"Harrisonburg, VA",9984,0.709
+22802,51165, ,Rockingham VA,"Harrisonburg, VA",3363,0.311
+22802,51660, ,Harrisonburg city VA,"Harrisonburg, VA",7452,0.689
+22807,51660, ,Harrisonburg city VA,"Harrisonburg, VA",8,1
+22810,51171, ,Shenandoah VA,"Basye, VA",1257,1
+22811,51165, ,Rockingham VA,"Bergton, VA",286,1
+22812,51015, ,Augusta VA,"Bridgewater, VA",275,0.082
+22812,51165, ,Rockingham VA,"Bridgewater, VA",3084,0.918
+22815,51165, ,Rockingham VA,"Broadway, VA",3625,0.99
+22815,51171, ,Shenandoah VA,"Broadway, VA",35,0.01
+22820,51165, ,Rockingham VA,"Criders, VA",153,1
+22821,51165, ,Rockingham VA,"Dayton, VA",2314,1
+22824,51171, ,Shenandoah VA,"Edinburg, VA",2789,1
+22827,51139, ,Page VA,"Elkton, VA",285,0.061
+22827,51165, ,Rockingham VA,"Elkton, VA",4366,0.939
+22830,51165, ,Rockingham VA,"Fulks Run, VA",824,1
+22831,51165, ,Rockingham VA,"Hinton, VA",402,1
+22832,51165, ,Rockingham VA,"Keezletown, VA",469,1
+22834,51165, ,Rockingham VA,"Linville, VA",499,1
+22835,51113, ,Madison VA,"Luray, VA",10,0.002
+22835,51139, ,Page VA,"Luray, VA",5793,0.998
+22840,51165, ,Rockingham VA,"Massanutten, VA",3530,1
+22841,51015, ,Augusta VA,"Mount Crawford, VA",41,0.036
+22841,51165, ,Rockingham VA,"Mount Crawford, VA",1112,0.964
+22842,51171, ,Shenandoah VA,"Mount Jackson, VA",2698,1
+22843,51015, ,Augusta VA,"Mount Solon, VA",1084,1
+22844,51165, ,Rockingham VA,"New Market, VA",126,0.057
+22844,51171, ,Shenandoah VA,"New Market, VA",2096,0.943
+22845,51171, ,Shenandoah VA,"Orkney Springs, VA",28,1
+22846,51165, ,Rockingham VA,"Penn Laird, VA",694,1
+22847,51171, ,Shenandoah VA,"Quicksburg, VA",467,1
+22849,51139, ,Page VA,"Shenandoah, VA",2233,0.968
+22849,51165, ,Rockingham VA,"Shenandoah, VA",73,0.032
+22850,51165, ,Rockingham VA,"Singers Glen, VA",418,1
+22851,51139, ,Page VA,"Stanley, VA",2748,1
+22853,51165, ,Rockingham VA,"Timberville, VA",1937,0.99
+22853,51171, ,Shenandoah VA,"Timberville, VA",20,0.01
+22901,51003, ,Albemarle VA,"Charlottesville, VA",12520,0.827
+22901,51540, ,Charlottesville city VA,"Charlottesville, VA",2619,0.173
+22902,51003, ,Albemarle VA,"Charlottesville, VA",3754,0.378
+22902,51540, ,Charlottesville city VA,"Charlottesville, VA",6167,0.622
+22903,51003, ,Albemarle VA,"Charlottesville, VA",5731,0.355
+22903,51540, ,Charlottesville city VA,"Charlottesville, VA",10402,0.645
+22904,51003, ,Albemarle VA,"University of Virginia, VA",13,0.929
+22904,51540, ,Charlottesville city VA,"University of Virginia, VA",1,0.071
+22911,51003, ,Albemarle VA,"Hollymead, VA",7055,1
+22920,51003, ,Albemarle VA,"Afton, VA",670,0.336
+22920,51015, ,Augusta VA,"Afton, VA",19,0.01
+22920,51125, ,Nelson VA,"Afton, VA",1308,0.655
+22922,51009, ,Amherst VA,"Arrington, VA",53,0.055
+22922,51125, ,Nelson VA,"Arrington, VA",909,0.945
+22923,51003, ,Albemarle VA,"Barboursville, VA",498,0.256
+22923,51079, ,Greene VA,"Barboursville, VA",786,0.403
+22923,51137, ,Orange VA,"Barboursville, VA",665,0.341
+22931,51003, ,Albemarle VA,"Covesville, VA",203,1
+22932,51003, ,Albemarle VA,"Crozet, VA",3129,1
+22935,51003, ,Albemarle VA,"Dyke, VA",166,0.398
+22935,51079, ,Greene VA,"Dyke, VA",251,0.602
+22936,51003, ,Albemarle VA,"Earlysville, VA",2001,1
+22937,51003, ,Albemarle VA,"Esmont, VA",680,1
+22938,51003, ,Albemarle VA,"Faber, VA",33,0.047
+22938,51125, ,Nelson VA,"Faber, VA",668,0.953
+22939,51015, ,Augusta VA,"Fishersville, VA",2109,1
+22940,51003, ,Albemarle VA,"Free Union, VA",430,0.853
+22940,51079, ,Greene VA,"Free Union, VA",74,0.147
+22942,51003, ,Albemarle VA,"Gordonsville, VA",267,0.069
+22942,51109, ,Louisa VA,"Gordonsville, VA",1885,0.484
+22942,51137, ,Orange VA,"Gordonsville, VA",1741,0.447
+22943,51003, ,Albemarle VA,"Greenwood, VA",219,1
+22946,51003, ,Albemarle VA,"Keene, VA",111,1
+22947,51003, ,Albemarle VA,"Keswick, VA",1823,0.944
+22947,51065, ,Fluvanna VA,"Keswick, VA",29,0.015
+22947,51109, ,Louisa VA,"Keswick, VA",79,0.041
+22948,51113, ,Madison VA,"Locust Dale, VA",104,1
+22949,51125, ,Nelson VA,"Lovingston, VA",655,1
+22952,51015, ,Augusta VA,"Lyndhurst, VA",922,1
+22958,51015, ,Augusta VA,"Nellysford, VA",172,0.059
+22958,51125, ,Nelson VA,"Nellysford, VA",2759,0.941
+22959,51003, ,Albemarle VA,"North Garden, VA",705,1
+22960,51113, ,Madison VA,"Orange, VA",431,0.092
+22960,51137, ,Orange VA,"Orange, VA",4049,0.864
+22960,51177, ,Spotsylvania VA,"Orange, VA",209,0.045
+22963,51065, ,Fluvanna VA,"Lake Monticello, VA",6489,1
+22964,51125, ,Nelson VA,"Piney River, VA",127,1
+22967,51009, ,Amherst VA,"Roseland, VA",132,0.097
+22967,51125, ,Nelson VA,"Roseland, VA",1227,0.903
+22968,51003, ,Albemarle VA,"Ruckersville, VA",144,0.038
+22968,51079, ,Greene VA,"Ruckersville, VA",3648,0.962
+22969,51003, ,Albemarle VA,"Schuyler, VA",333,0.472
+22969,51125, ,Nelson VA,"Schuyler, VA",373,0.528
+22971,51125, ,Nelson VA,"Shipman, VA",873,1
+22972,51137, ,Orange VA,"Somerset, VA",206,1
+22973,51079, ,Greene VA,"Stanardsville, VA",2750,0.969
+22973,51113, ,Madison VA,"Stanardsville, VA",87,0.031
+22974,51003, ,Albemarle VA,"Troy, VA",148,0.086
+22974,51065, ,Fluvanna VA,"Troy, VA",1178,0.687
+22974,51109, ,Louisa VA,"Troy, VA",389,0.227
+22976,51125, ,Nelson VA,"Tyro, VA",214,1
+22980,51015, ,Augusta VA,"Waynesboro, VA",4505,0.317
+22980,51820, ,Waynesboro city VA,"Waynesboro, VA",9717,0.683
+22989,51113, ,Madison VA,"Woodberry Forest, VA",40,1
+23002,51007, ,Amelia VA,"Amelia Court House, VA",4330,0.995
+23002,51135, ,Nottoway VA,"Amelia Court House, VA",21,0.005
+23004,51029, ,Buckingham VA,"Arvonia, VA",433,1
+23005,51085, ,Hanover VA,"Ashland, VA",6156,1
+23009,51101, ,King William VA,"Aylett, VA",2500,1
+23011,51127, ,New Kent VA,"Barhamsville, VA",420,1
+23015,51033, ,Caroline VA,"Beaverdam, VA",183,0.112
+23015,51085, ,Hanover VA,"Beaverdam, VA",1205,0.736
+23015,51109, ,Louisa VA,"Beaverdam, VA",23,0.014
+23015,51177, ,Spotsylvania VA,"Beaverdam, VA",227,0.139
+23021,51115, ,Mathews VA,"Bohannon, VA",165,1
+23022,51065, ,Fluvanna VA,"Bremo Bluff, VA",459,1
+23023,51097, ,King and Queen VA,"Bruington, VA",153,1
+23024,51085, ,Hanover VA,"Bumpass, VA",26,0.006
+23024,51109, ,Louisa VA,"Bumpass, VA",3440,0.823
+23024,51177, ,Spotsylvania VA,"Bumpass, VA",714,0.171
+23025,51115, ,Mathews VA,"Cardinal, VA",134,1
+23027,51049, ,Cumberland VA,"Cartersville, VA",619,1
+23030,51036, ,Charles City VA,"Charles City, VA",2300,0.994
+23030,51087, ,Henrico VA,"Charles City, VA",14,0.006
+23032,51119, ,Middlesex VA,"Church View, VA",147,1
+23035,51115, ,Mathews VA,"Cobbs Creek, VA",813,1
+23038,51049, ,Cumberland VA,"Columbia, VA",320,0.352
+23038,51065, ,Fluvanna VA,"Columbia, VA",182,0.2
+23038,51075, ,Goochland VA,"Columbia, VA",406,0.447
+23039,51075, ,Goochland VA,"Crozier, VA",468,1
+23040,51029, ,Buckingham VA,"Cumberland, VA",141,0.068
+23040,51049, ,Cumberland VA,"Cumberland, VA",1927,0.932
+23043,51119, ,Middlesex VA,"Deltaville, VA",1715,1
+23045,51115, ,Mathews VA,"Diggs, VA",72,1
+23047,51033, ,Caroline VA,"Doswell, VA",129,0.159
+23047,51085, ,Hanover VA,"Doswell, VA",682,0.841
+23050,51073, ,Gloucester VA,"Dutton, VA",54,0.191
+23050,51115, ,Mathews VA,"Dutton, VA",228,0.809
+23055,51065, ,Fluvanna VA,"Fork Union, VA",375,1
+23056,51115, ,Mathews VA,"Foster, VA",249,1
+23059,51085, ,Hanover VA,"Glen Allen, VA",1757,0.144
+23059,51087, ,Henrico VA,"Glen Allen, VA",10478,0.856
+23060,51087, ,Henrico VA,"Glen Allen, VA",13488,1
+23061,51073, ,Gloucester VA,"Gloucester, VA",8854,1
+23062,51073, ,Gloucester VA,"Gloucester Point, VA",1150,1
+23063,51075, ,Goochland VA,"Goochland, VA",2008,1
+23064,51115, ,Mathews VA,"Gwynn, VA",128,1
+23065,51075, ,Goochland VA,"Gum Spring, VA",460,0.567
+23065,51109, ,Louisa VA,"Gum Spring, VA",351,0.433
+23066,51115, ,Mathews VA,"Gwynn, VA",526,1
+23068,51115, ,Mathews VA,"Hallieford, VA (PO Boxes)",201,1
+23069,51033, ,Caroline VA,"Hanover, VA",283,0.264
+23069,51085, ,Hanover VA,"Hanover, VA",564,0.526
+23069,51101, ,King William VA,"Hanover, VA",226,0.211
+23070,51119, ,Middlesex VA,"Hardyville, VA",227,1
+23071,51119, ,Middlesex VA,"Hartfield, VA",1050,1
+23072,51073, ,Gloucester VA,"Gloucester Point, VA",5103,1
+23075,51087, ,Henrico VA,"Highland Springs, VA",4308,1
+23076,51115, ,Mathews VA,"Hudgins, VA",403,1
+23079,51119, ,Middlesex VA,"Jamaica, VA",289,1
+23083,51007, ,Amelia VA,"Jetersville, VA",753,0.991
+23083,51135, ,Nottoway VA,"Jetersville, VA",7,0.009
+23084,51065, ,Fluvanna VA,"Kents Store, VA",501,0.646
+23084,51075, ,Goochland VA,"Kents Store, VA",185,0.238
+23084,51109, ,Louisa VA,"Kents Store, VA",90,0.116
+23085,51097, ,King and Queen VA,"King And Queen Court House, VA",199,1
+23086,51101, ,King William VA,"King William, VA",1348,1
+23089,51095, ,James City VA,"Lanexa, VA",862,0.384
+23089,51127, ,New Kent VA,"Lanexa, VA",1380,0.616
+23091,51097, ,King and Queen VA,"Little Plymouth, VA",154,1
+23092,51119, ,Middlesex VA,"Locust Hill, VA",294,1
+23093,51065, ,Fluvanna VA,"Louisa, VA",17,0.003
+23093,51075, ,Goochland VA,"Louisa, VA",297,0.051
+23093,51109, ,Louisa VA,"Louisa, VA",5508,0.946
+23102,51075, ,Goochland VA,"Maidens, VA",938,0.856
+23102,51085, ,Hanover VA,"Maidens, VA",48,0.044
+23102,51109, ,Louisa VA,"Maidens, VA",110,0.1
+23103,51075, ,Goochland VA,"Manakin Sabot, VA",1998,1
+23106,51101, ,King William VA,"Manquin, VA",407,1
+23108,51097, ,King and Queen VA,"Mascot, VA",73,1
+23109,51115, ,Mathews VA,"Mathews, VA",958,1
+23110,51097, ,King and Queen VA,"Mattaponi, VA",393,1
+23111,51085, ,Hanover VA,"Mechanicsville, VA",14351,1
+23112,51041, ,Chesterfield VA,"Midlothian, VA",18372,1
+23113,51041, ,Chesterfield VA,"Midlothian, VA",8981,0.948
+23113,51145, ,Powhatan VA,"Midlothian, VA",490,0.052
+23114,51041, ,Chesterfield VA,"Midlothian, VA",6719,1
+23115,51057, ,Essex VA,"Millers Tavern, VA (PO Boxes)",62,1
+23116,51085, ,Hanover VA,"Mechanicsville, VA",9796,1
+23117,51075, ,Goochland VA,"Mineral, VA",93,0.018
+23117,51109, ,Louisa VA,"Mineral, VA",4323,0.818
+23117,51177, ,Spotsylvania VA,"Mineral, VA",870,0.165
+23119,51115, ,Mathews VA,"Moon, VA",214,1
+23120,51041, ,Chesterfield VA,"Moseley, VA",1664,0.86
+23120,51145, ,Powhatan VA,"Moseley, VA",271,0.14
+23123,51029, ,Buckingham VA,"New Canton, VA",874,0.954
+23123,51049, ,Cumberland VA,"New Canton, VA",42,0.046
+23124,51127, ,New Kent VA,"New Kent, VA",1212,1
+23125,51115, ,Mathews VA,"New Point, VA",222,1
+23126,51097, ,King and Queen VA,"Newtown, VA",242,1
+23128,51073, ,Gloucester VA,"North, VA",164,0.286
+23128,51115, ,Mathews VA,"North, VA",410,0.714
+23129,51075, ,Goochland VA,"Oilville, VA",145,1
+23130,51115, ,Mathews VA,"Onemo, VA",160,1
+23138,51115, ,Mathews VA,"Port Haywood, VA",610,1
+23139,51049, ,Cumberland VA,"Powhatan, VA",77,0.008
+23139,51145, ,Powhatan VA,"Powhatan, VA",9281,0.992
+23140,51036, ,Charles City VA,"Providence Forge, VA",763,0.357
+23140,51127, ,New Kent VA,"Providence Forge, VA",1377,0.643
+23141,51127, ,New Kent VA,"Quinton, VA",2597,1
+23146,51075, ,Goochland VA,"Rockville, VA",175,0.145
+23146,51085, ,Hanover VA,"Rockville, VA",1030,0.855
+23148,51057, ,Essex VA,"Saint Stephens Church, VA",95,0.117
+23148,51097, ,King and Queen VA,"Saint Stephens Church, VA",715,0.883
+23149,51073, ,Gloucester VA,"Saluda, VA",527,0.388
+23149,51097, ,King and Queen VA,"Saluda, VA",166,0.122
+23149,51119, ,Middlesex VA,"Saluda, VA",664,0.489
+23150,51087, ,Henrico VA,"Sandston, VA",5264,1
+23153,51075, ,Goochland VA,"Sandy Hook, VA",524,1
+23156,51097, ,King and Queen VA,"Shacklefords, VA",775,1
+23160,51145, ,Powhatan VA,"State Farm, VA",1,1
+23161,51097, ,King and Queen VA,"Stevensville, VA",106,1
+23163,51115, ,Mathews VA,"Susan, VA",176,1
+23168,51095, ,James City VA,"Toano, VA",2360,1
+23169,51119, ,Middlesex VA,"Topping, VA",820,1
+23173,51760, ,Richmond city VA,"Richmond, VA",39,1
+23175,51119, ,Middlesex VA,"Urbanna, VA",1285,1
+23176,51119, ,Middlesex VA,"Wake, VA",356,1
+23177,51097, ,King and Queen VA,"Walkerton, VA",280,0.851
+23177,51101, ,King William VA,"Walkerton, VA",49,0.149
+23180,51119, ,Middlesex VA,"Water View, VA",267,1
+23181,51101, ,King William VA,"West Point, VA",1992,0.866
+23181,51127, ,New Kent VA,"West Point, VA",309,0.134
+23185,51036, ,Charles City VA,"Williamsburg, VA",29,0.001
+23185,51095, ,James City VA,"Williamsburg, VA",10928,0.532
+23185,51199, ,York VA,"Williamsburg, VA",5109,0.249
+23185,51830, ,Williamsburg city VA,"Williamsburg, VA",4478,0.218
+23188,51095, ,James City VA,"Williamsburg, VA",15647,0.895
+23188,51199, ,York VA,"Williamsburg, VA",1137,0.065
+23188,51830, ,Williamsburg city VA,"Williamsburg, VA",698,0.04
+23192,51085, ,Hanover VA,"Montpelier, VA",2545,0.955
+23192,51109, ,Louisa VA,"Montpelier, VA",121,0.045
+23219,51760, ,Richmond city VA,"Richmond, VA",2135,1
+23220,51760, ,Richmond city VA,"Richmond, VA",16609,1
+23221,51760, ,Richmond city VA,"Richmond, VA",7816,1
+23222,51087, ,Henrico VA,"Richmond, VA",3065,0.279
+23222,51760, ,Richmond city VA,"Richmond, VA",7936,0.721
+23223,51087, ,Henrico VA,"Richmond, VA",10610,0.482
+23223,51760, ,Richmond city VA,"Richmond, VA",11407,0.518
+23224,51041, ,Chesterfield VA,"Richmond, VA",1225,0.083
+23224,51760, ,Richmond city VA,"Richmond, VA",13603,0.917
+23225,51041, ,Chesterfield VA,"Richmond, VA",1982,0.1
+23225,51760, ,Richmond city VA,"Richmond, VA",17887,0.9
+23226,51087, ,Henrico VA,"Richmond, VA",3627,0.484
+23226,51760, ,Richmond city VA,"Richmond, VA",3873,0.516
+23227,51087, ,Henrico VA,"Richmond, VA",7026,0.55
+23227,51760, ,Richmond city VA,"Richmond, VA",5737,0.45
+23228,51087, ,Henrico VA,"Laurel, VA",16089,1
+23229,51087, ,Henrico VA,"Tuckahoe, VA",13736,1
+23230,51087, ,Henrico VA,"Richmond, VA",1550,0.531
+23230,51760, ,Richmond city VA,"Richmond, VA",1367,0.469
+23231,51036, ,Charles City VA,"Richmond, VA",137,0.009
+23231,51087, ,Henrico VA,"Richmond, VA",12334,0.854
+23231,51760, ,Richmond city VA,"Richmond, VA",1967,0.136
+23233,51075, ,Goochland VA,"Short Pump, VA",125,0.01
+23233,51087, ,Henrico VA,"Short Pump, VA",12020,0.99
+23234,51041, ,Chesterfield VA,"Meadowbrook, VA",12002,0.708
+23234,51760, ,Richmond city VA,"Meadowbrook, VA",4950,0.292
+23235,51041, ,Chesterfield VA,"Bon Air, VA",10426,0.775
+23235,51760, ,Richmond city VA,"Bon Air, VA",3023,0.225
+23236,51041, ,Chesterfield VA,"Richmond, VA",10219,1
+23237,51041, ,Chesterfield VA,"Richmond, VA",8311,1
+23238,51075, ,Goochland VA,"Richmond, VA",796,0.069
+23238,51087, ,Henrico VA,"Richmond, VA",10802,0.931
+23294,51087, ,Henrico VA,"Richmond, VA",8367,1
+23301,51001, ,Accomack VA,"Accomac, VA",795,1
+23302,51001, ,Accomack VA,"Assawoman, VA",79,1
+23303,51001, ,Accomack VA,"Atlantic, VA",366,1
+23304,51093, ,Isle of Wight VA,"Battery Park, VA (PO Boxes)",37,1
+23306,51001, ,Accomack VA,"Belle Haven, VA",523,1
+23307,51131, ,Northampton VA,"Birdsnest, VA",391,1
+23308,51001, ,Accomack VA,"Bloxom, VA",955,1
+23310,51131, ,Northampton VA,"Cape Charles, VA",2955,1
+23313,51131, ,Northampton VA,"Capeville, VA (PO Boxes)",45,1
+23314,51093, ,Isle of Wight VA,"Carrollton, VA",2919,1
+23315,51093, ,Isle of Wight VA,"Carrsville, VA",674,1
+23316,51131, ,Northampton VA,"Cheriton, VA",171,1
+23320,51550, ,Chesapeake city VA,"Chesapeake, VA",21820,1
+23321,51550, ,Chesapeake city VA,"Chesapeake, VA",12598,0.998
+23321,51800, ,Suffolk city VA,"Chesapeake, VA",21,0.002
+23322,51550, ,Chesapeake city VA,"Chesapeake, VA",19878,1
+23323,51550, ,Chesapeake city VA,"Chesapeake, VA",12548,1
+23324,51550, ,Chesapeake city VA,"Chesapeake, VA",9259,1
+23325,51550, ,Chesapeake city VA,"Chesapeake, VA",7093,1
+23336,51001, ,Accomack VA,"Chincoteague, VA",4519,1
+23337,51001, ,Accomack VA,"Wattsville, VA",199,1
+23347,51131, ,Northampton VA,"Eastville, VA (PO Boxes)",365,1
+23350,51131, ,Northampton VA,"Exmore, VA",1920,1
+23354,51131, ,Northampton VA,"Franktown, VA",109,1
+23356,51001, ,Accomack VA,"Captains Cove, VA",996,1
+23357,51001, ,Accomack VA,"Chase Crossing, VA",316,1
+23358,51001, ,Accomack VA,"Hacksneck, VA (PO Boxes)",119,1
+23359,51001, ,Accomack VA,"Hallwood, VA",374,1
+23389,51001, ,Accomack VA,"Harborton, VA",103,1
+23395,51001, ,Accomack VA,"Horntown, VA",1177,1
+23398,51131, ,Northampton VA,"Jamesville, VA (PO Boxes)",144,1
+23401,51001, ,Accomack VA,"Keller, VA",112,1
+23405,51131, ,Northampton VA,"Machipongo, VA",605,1
+23407,51001, ,Accomack VA,"Nelsonia, VA",166,1
+23408,51131, ,Northampton VA,"Marionville, VA (PO Boxes)",48,1
+23409,51001, ,Accomack VA,"Mears, VA",49,1
+23410,51001, ,Accomack VA,"Melfa, VA",997,1
+23413,51131, ,Northampton VA,"Nassawadox, VA",462,1
+23414,51001, ,Accomack VA,"Nelsonia, VA",46,1
+23415,51001, ,Accomack VA,"New Church, VA",937,1
+23416,51001, ,Accomack VA,"Oak Hall, VA",169,1
+23417,51001, ,Accomack VA,"Onancock, VA",2352,1
+23418,51001, ,Accomack VA,"Onley, VA",465,1
+23420,51001, ,Accomack VA,"Painter, VA",1172,1
+23421,51001, ,Accomack VA,"Parksley, VA",1965,1
+23422,51001, ,Accomack VA,"Pungoteague, VA",142,1
+23423,51001, ,Accomack VA,"Quinby, VA",265,1
+23426,51001, ,Accomack VA,"Sanford, VA",133,1
+23427,51001, ,Accomack VA,"Saxis, VA",181,1
+23430,51093, ,Isle of Wight VA,"Smithfield, VA",7104,1
+23432,51800, ,Suffolk city VA,"Suffolk, VA",669,1
+23433,51800, ,Suffolk city VA,"Suffolk, VA",543,1
+23434,51800, ,Suffolk city VA,"Suffolk, VA",18973,1
+23435,51800, ,Suffolk city VA,"Suffolk, VA",9937,1
+23436,51800, ,Suffolk city VA,"Suffolk, VA",382,1
+23437,51800, ,Suffolk city VA,"Suffolk, VA",1777,1
+23438,51800, ,Suffolk city VA,"Suffolk, VA",733,1
+23440,51001, ,Accomack VA,"Tangier, VA",377,1
+23441,51001, ,Accomack VA,"Tasley, VA",80,1
+23442,51001, ,Accomack VA,"Temperanceville, VA",496,1
+23451,51810, ,Virginia Beach city VA,"Virginia Beach, VA",23513,1
+23452,51810, ,Virginia Beach city VA,"Virginia Beach, VA",23662,1
+23453,51810, ,Virginia Beach city VA,"Virginia Beach, VA",12701,1
+23454,51810, ,Virginia Beach city VA,"Virginia Beach, VA",24246,1
+23455,51810, ,Virginia Beach city VA,"Virginia Beach, VA",20439,1
+23456,51810, ,Virginia Beach city VA,"Virginia Beach, VA",18247,1
+23457,51810, ,Virginia Beach city VA,"Virginia Beach, VA",1656,1
+23459,51810, ,Virginia Beach city VA,"Virginia Beach, VA",270,1
+23462,51810, ,Virginia Beach city VA,"Virginia Beach, VA",26087,1
+23464,51810, ,Virginia Beach city VA,"Virginia Beach, VA",27058,1
+23480,51001, ,Accomack VA,"Wachapreague, VA",286,1
+23486,51131, ,Northampton VA,"Willis Wharf, VA (PO Boxes)",81,1
+23487,51093, ,Isle of Wight VA,"Windsor, VA",2579,1
+23488,51001, ,Accomack VA,"Withams, VA (PO Boxes)",90,1
+23502,51710, ,Norfolk city VA,"Norfolk, VA",8440,1
+23503,51710, ,Norfolk city VA,"Norfolk, VA",15006,1
+23504,51710, ,Norfolk city VA,"Norfolk, VA",8789,1
+23505,51710, ,Norfolk city VA,"Norfolk, VA",13097,1
+23507,51710, ,Norfolk city VA,"Norfolk, VA",3535,1
+23508,51710, ,Norfolk city VA,"Norfolk, VA",6696,1
+23509,51710, ,Norfolk city VA,"Norfolk, VA",5459,1
+23510,51710, ,Norfolk city VA,"Norfolk, VA",3557,1
+23511,51710, ,Norfolk city VA,"Norfolk, VA",141,1
+23513,51710, ,Norfolk city VA,"Norfolk, VA",12341,1
+23517,51710, ,Norfolk city VA,"Norfolk, VA",2502,1
+23518,51710, ,Norfolk city VA,"Norfolk, VA",12581,1
+23523,51710, ,Norfolk city VA,"Norfolk, VA",2874,1
+23601,51700, ,Newport News city VA,"Newport News, VA",11500,1
+23602,51199, ,York VA,"Newport News, VA",48,0.003
+23602,51700, ,Newport News city VA,"Newport News, VA",16758,0.997
+23603,51199, ,York VA,"Newport News, VA",77,0.051
+23603,51700, ,Newport News city VA,"Newport News, VA",1422,0.949
+23604,51700, ,Newport News city VA,"Newport News, VA",899,1
+23605,51650, ,Hampton city VA,"Newport News, VA",1669,0.25
+23605,51700, ,Newport News city VA,"Newport News, VA",5014,0.75
+23606,51700, ,Newport News city VA,"Newport News, VA",12297,1
+23607,51700, ,Newport News city VA,"Newport News, VA",10689,1
+23608,51700, ,Newport News city VA,"Newport News, VA",17619,1
+23651,51650, ,Hampton city VA,"Hampton, VA",329,1
+23661,51650, ,Hampton city VA,"Hampton, VA",6337,1
+23662,51735, ,Poquoson city VA,"Poquoson, VA",4726,1
+23663,51650, ,Hampton city VA,"Hampton, VA",5837,1
+23664,51650, ,Hampton city VA,"Hampton, VA",4799,1
+23665,51199, ,York VA,"Bethel Manor, VA",1217,0.83
+23665,51650, ,Hampton city VA,"Bethel Manor, VA",249,0.17
+23666,51650, ,Hampton city VA,"Hampton, VA",22464,1
+23669,51650, ,Hampton city VA,"Hampton, VA",17882,1
+23690,51199, ,York VA,"Yorktown, VA",1176,1
+23691,51199, ,York VA,"Yorktown, VA",35,1
+23692,51199, ,York VA,"Yorktown, VA",7824,1
+23693,51199, ,York VA,"Yorktown, VA",8745,1
+23696,51199, ,York VA,"Seaford, VA",1481,1
+23701,51740, ,Portsmouth city VA,"Portsmouth, VA",10336,1
+23702,51740, ,Portsmouth city VA,"Portsmouth, VA",4954,1
+23703,51740, ,Portsmouth city VA,"Portsmouth, VA",10536,1
+23704,51740, ,Portsmouth city VA,"Portsmouth, VA",8682,1
+23707,51740, ,Portsmouth city VA,"Portsmouth, VA",6298,1
+23801,51149, ,Prince George VA,"Fort Lee, VA",866,1
+23803,51041, ,Chesterfield VA,"Petersburg, VA",4197,0.228
+23803,51053, ,Dinwiddie VA,"Petersburg, VA",4137,0.224
+23803,51730, ,Petersburg city VA,"Petersburg, VA",10103,0.548
+23805,51053, ,Dinwiddie VA,"Petersburg, VA",721,0.083
+23805,51149, ,Prince George VA,"Petersburg, VA",1779,0.204
+23805,51730, ,Petersburg city VA,"Petersburg, VA",6223,0.713
+23806,51041, ,Chesterfield VA,"Ettrick, VA",1,1
+23821,51025, ,Brunswick VA,"Alberta, VA",820,1
+23824,51025, ,Brunswick VA,"Blackstone, VA",126,0.037
+23824,51053, ,Dinwiddie VA,"Blackstone, VA",46,0.014
+23824,51111, ,Lunenburg VA,"Blackstone, VA",33,0.01
+23824,51135, ,Nottoway VA,"Blackstone, VA",3169,0.939
+23827,51175, ,Southampton VA,"Boykins, VA",681,1
+23828,51175, ,Southampton VA,"Branchville, VA",180,1
+23829,51175, ,Southampton VA,"Capron, VA",541,1
+23830,51053, ,Dinwiddie VA,"Carson, VA",263,0.412
+23830,51149, ,Prince George VA,"Carson, VA",263,0.412
+23830,51183, ,Sussex VA,"Carson, VA",112,0.176
+23831,51041, ,Chesterfield VA,"Chester, VA",13140,1
+23832,51041, ,Chesterfield VA,"Chesterfield, VA",11953,1
+23833,51007, ,Amelia VA,"Church Road, VA",77,0.079
+23833,51053, ,Dinwiddie VA,"Church Road, VA",893,0.921
+23834,51041, ,Chesterfield VA,"Colonial Heights, VA",3103,0.284
+23834,51570, ,Colonial Heights city VA,"Colonial Heights, VA",7831,0.716
+23836,51041, ,Chesterfield VA,"Chester, VA",4674,1
+23837,51175, ,Southampton VA,"Courtland, VA",1785,0.982
+23837,51183, ,Sussex VA,"Courtland, VA",32,0.018
+23838,51041, ,Chesterfield VA,"Chesterfield, VA",5586,1
+23839,51181, ,Surry VA,"Dendron, VA",347,1
+23840,51053, ,Dinwiddie VA,"Dewitt, VA",754,1
+23841,51053, ,Dinwiddie VA,"Dinwiddie, VA",1440,1
+23842,51149, ,Prince George VA,"Disputanta, VA",2525,0.92
+23842,51181, ,Surry VA,"Disputanta, VA",24,0.009
+23842,51183, ,Sussex VA,"Disputanta, VA",197,0.072
+23843,51025, ,Brunswick VA,"Dolphin, VA",354,1
+23844,51175, ,Southampton VA,"Drewryville, VA",364,1
+23845,51025, ,Brunswick VA,"Ebony, VA",253,1
+23846,51181, ,Surry VA,"Elberon, VA",397,1
+23847,51025, ,Brunswick VA,"Emporia, VA",214,0.035
+23847,51081, ,Greensville VA,"Emporia, VA",3162,0.519
+23847,51175, ,Southampton VA,"Emporia, VA",94,0.015
+23847,51183, ,Sussex VA,"Emporia, VA",57,0.009
+23847,51595, ,Emporia city VA,"Emporia, VA",2565,0.421
+23850,51007, ,Amelia VA,"Ford, VA",119,0.249
+23850,51053, ,Dinwiddie VA,"Ford, VA",358,0.751
+23851,51093, ,Isle of Wight VA,"Franklin, VA",516,0.085
+23851,51175, ,Southampton VA,"Franklin, VA",1671,0.274
+23851,51620, ,Franklin city VA,"Franklin, VA",3901,0.641
+23856,51025, ,Brunswick VA,"Freeman, VA",509,0.962
+23856,51081, ,Greensville VA,"Freeman, VA",20,0.038
+23857,51025, ,Brunswick VA,"Gasburg, VA",388,1
+23860,51149, ,Prince George VA,"Hopewell, VA",1929,0.16
+23860,51670, ,Hopewell city VA,"Hopewell, VA",10121,0.84
+23866,51093, ,Isle of Wight VA,"Ivor, VA",220,0.225
+23866,51175, ,Southampton VA,"Ivor, VA",757,0.775
+23867,51081, ,Greensville VA,"Jarratt, VA",564,0.518
+23867,51183, ,Sussex VA,"Jarratt, VA",525,0.482
+23868,51025, ,Brunswick VA,"Lawrenceville, VA",2503,1
+23872,51053, ,Dinwiddie VA,"Mc Kenney, VA",1038,1
+23874,51175, ,Southampton VA,"Newsoms, VA",463,1
+23875,51149, ,Prince George VA,"Prince George, VA",4477,1
+23876,51025, ,Brunswick VA,"Rawlings, VA",237,1
+23878,51175, ,Southampton VA,"Sedley, VA",502,1
+23879,51081, ,Greensville VA,"Skippers, VA",344,1
+23881,51149, ,Prince George VA,"Spring Grove, VA",217,0.198
+23881,51181, ,Surry VA,"Spring Grove, VA",879,0.802
+23882,51053, ,Dinwiddie VA,"Stony Creek, VA",333,0.27
+23882,51183, ,Sussex VA,"Stony Creek, VA",899,0.73
+23883,51181, ,Surry VA,"Surry, VA",1227,1
+23884,51183, ,Sussex VA,"Sussex, VA",6,1
+23885,51053, ,Dinwiddie VA,"Sutherland, VA",1138,1
+23887,51025, ,Brunswick VA,"Gasburg, VA",611,1
+23888,51175, ,Southampton VA,"Wakefield, VA",122,0.112
+23888,51181, ,Surry VA,"Wakefield, VA",123,0.113
+23888,51183, ,Sussex VA,"Wakefield, VA",848,0.776
+23889,51025, ,Brunswick VA,"Warfield, VA",276,1
+23890,51181, ,Surry VA,"Waverly, VA",240,0.123
+23890,51183, ,Sussex VA,"Waverly, VA",1706,0.877
+23891,51183, ,Sussex VA,"Sussex Correctional Facility, Waverly, V",1,1
+23893,51025, ,Brunswick VA,"White Plains, VA",227,1
+23894,51053, ,Dinwiddie VA,"Wilsons, VA",301,1
+23897,51183, ,Sussex VA,"Yale, VA",313,1
+23898,51093, ,Isle of Wight VA,"Zuni, VA",584,0.651
+23898,51175, ,Southampton VA,"Zuni, VA",313,0.349
+23899,51181, ,Surry VA,"Claremont, VA",207,1
+23901,51029, ,Buckingham VA,"Farmville, VA",499,0.073
+23901,51049, ,Cumberland VA,"Farmville, VA",1577,0.23
+23901,51147, ,Prince Edward VA,"Farmville, VA",4782,0.697
+23915,51117, ,Mecklenburg VA,"Baskerville, VA",347,1
+23917,51117, ,Mecklenburg VA,"Boydton, VA",1890,1
+23919,51025, ,Brunswick VA,"Bracey, VA",110,0.039
+23919,51117, ,Mecklenburg VA,"Bracey, VA",2747,0.961
+23920,51025, ,Brunswick VA,"Brodnax, VA",1246,0.739
+23920,51111, ,Lunenburg VA,"Brodnax, VA",61,0.036
+23920,51117, ,Mecklenburg VA,"Brodnax, VA",379,0.225
+23921,51029, ,Buckingham VA,"Buckingham, VA",1045,1
+23922,51135, ,Nottoway VA,"Burkeville, VA",783,0.772
+23922,51147, ,Prince Edward VA,"Burkeville, VA",231,0.228
+23923,51037, ,Charlotte VA,"Charlotte Court House, VA",1210,0.958
+23923,51147, ,Prince Edward VA,"Charlotte Court House, VA",53,0.042
+23924,51037, ,Charlotte VA,"Chase City, VA",53,0.017
+23924,51111, ,Lunenburg VA,"Chase City, VA",118,0.038
+23924,51117, ,Mecklenburg VA,"Chase City, VA",2943,0.945
+23927,51117, ,Mecklenburg VA,"Clarksville, VA",3330,1
+23930,51135, ,Nottoway VA,"Crewe, VA",2670,1
+23934,51037, ,Charlotte VA,"Cullen, VA",177,0.524
+23934,51147, ,Prince Edward VA,"Cullen, VA",161,0.476
+23936,51029, ,Buckingham VA,"Dillwyn, VA",2756,0.977
+23936,51049, ,Cumberland VA,"Dillwyn, VA",64,0.023
+23937,51037, ,Charlotte VA,"Drakes Branch, VA",852,0.875
+23937,51111, ,Lunenburg VA,"Drakes Branch, VA",122,0.125
+23938,51025, ,Brunswick VA,"Dundas, VA",137,0.659
+23938,51111, ,Lunenburg VA,"Dundas, VA",71,0.341
+23942,51111, ,Lunenburg VA,"Green Bay, VA",145,0.262
+23942,51147, ,Prince Edward VA,"Green Bay, VA",409,0.738
+23943,51147, ,Prince Edward VA,"Hampden-Sydney, VA",42,1
+23944,51111, ,Lunenburg VA,"Kenbridge, VA",2134,1
+23947,51037, ,Charlotte VA,"Keysville, VA",1228,0.576
+23947,51111, ,Lunenburg VA,"Keysville, VA",721,0.338
+23947,51147, ,Prince Edward VA,"Keysville, VA",184,0.086
+23950,51025, ,Brunswick VA,"La Crosse, VA",155,0.099
+23950,51117, ,Mecklenburg VA,"La Crosse, VA",1418,0.901
+23952,51111, ,Lunenburg VA,"Lunenburg, VA",105,1
+23954,51111, ,Lunenburg VA,"Meherrin, VA",255,0.262
+23954,51147, ,Prince Edward VA,"Meherrin, VA",718,0.738
+23958,51011, ,Appomattox VA,"Pamplin, VA",709,0.462
+23958,51037, ,Charlotte VA,"Pamplin, VA",96,0.063
+23958,51147, ,Prince Edward VA,"Pamplin, VA",731,0.476
+23959,51037, ,Charlotte VA,"Phenix, VA",614,1
+23960,51011, ,Appomattox VA,"Prospect, VA",19,0.021
+23960,51147, ,Prince Edward VA,"Prospect, VA",871,0.979
+23962,51037, ,Charlotte VA,"Randolph, VA",250,0.731
+23962,51083, ,Halifax VA,"Randolph, VA",92,0.269
+23963,51011, ,Appomattox VA,"Red House, VA",16,0.061
+23963,51031, ,Campbell VA,"Red House, VA",34,0.129
+23963,51037, ,Charlotte VA,"Red House, VA",214,0.811
+23964,51037, ,Charlotte VA,"Red Oak, VA",560,0.915
+23964,51117, ,Mecklenburg VA,"Red Oak, VA",52,0.085
+23966,51007, ,Amelia VA,"Rice, VA",80,0.076
+23966,51147, ,Prince Edward VA,"Rice, VA",967,0.924
+23967,51037, ,Charlotte VA,"Saxe, VA",581,1
+23968,51117, ,Mecklenburg VA,"Skipwith, VA",464,1
+23970,51111, ,Lunenburg VA,"South Hill, VA",205,0.052
+23970,51117, ,Mecklenburg VA,"South Hill, VA",3713,0.948
+23974,51111, ,Lunenburg VA,"Victoria, VA",1965,1
+23976,51037, ,Charlotte VA,"Wylliesburg, VA",137,1
+24011,51770, ,Roanoke city VA,"Roanoke, VA",153,1
+24012,51023, ,Botetourt VA,"Roanoke, VA",445,0.033
+24012,51161, ,Roanoke VA,"Roanoke, VA",2651,0.195
+24012,51770, ,Roanoke city VA,"Roanoke, VA",10490,0.772
+24013,51770, ,Roanoke city VA,"Roanoke, VA",3609,1
+24014,51161, ,Roanoke VA,"Roanoke, VA",2071,0.248
+24014,51770, ,Roanoke city VA,"Roanoke, VA",6264,0.752
+24015,51161, ,Roanoke VA,"Roanoke, VA",108,0.014
+24015,51770, ,Roanoke city VA,"Roanoke, VA",7691,0.986
+24016,51770, ,Roanoke city VA,"Roanoke, VA",4751,1
+24017,51770, ,Roanoke city VA,"Roanoke, VA",10877,1
+24018,51161, ,Roanoke VA,"Cave Spring, VA",14827,0.879
+24018,51770, ,Roanoke city VA,"Cave Spring, VA",2040,0.121
+24019,51023, ,Botetourt VA,"Hollins, VA",1640,0.145
+24019,51161, ,Roanoke VA,"Hollins, VA",8058,0.715
+24019,51770, ,Roanoke city VA,"Hollins, VA",1578,0.14
+24020,51161, ,Roanoke VA,"Hollins, VA",34,1
+24053,51035, ,Carroll VA,"Ararat, VA",48,0.033
+24053,51141, ,Patrick VA,"Ararat, VA",1404,0.967
+24054,51089, ,Henry VA,"Axton, VA",2253,0.711
+24054,51143, ,Pittsylvania VA,"Axton, VA",918,0.289
+24055,51067, ,Franklin VA,"Bassett, VA",296,0.044
+24055,51089, ,Henry VA,"Bassett, VA",6097,0.917
+24055,51141, ,Patrick VA,"Bassett, VA",259,0.039
+24058,51155, ,Pulaski VA,"Belspring, VA",160,1
+24059,51067, ,Franklin VA,"Bent Mountain, VA",20,0.048
+24059,51161, ,Roanoke VA,"Bent Mountain, VA",400,0.952
+24060,51121, ,Montgomery VA,"Blacksburg, VA",20255,1
+24064,51019, ,Bedford VA  (R),"Blue Ridge, VA",642,0.31
+24064,51023, ,Botetourt VA,"Blue Ridge, VA",1428,0.69
+24065,51067, ,Franklin VA,"Boones Mill, VA",2299,0.83
+24065,51161, ,Roanoke VA,"Boones Mill, VA",472,0.17
+24066,51023, ,Botetourt VA,"Buchanan, VA",2344,0.982
+24066,51163, ,Rockbridge VA,"Buchanan, VA",43,0.018
+24067,51067, ,Franklin VA,"Callaway, VA",1067,1
+24069,51143, ,Pittsylvania VA,"Cascade, VA",884,1
+24070,51045, ,Craig VA,"Catawba, VA",153,0.252
+24070,51121, ,Montgomery VA,"Catawba, VA",9,0.015
+24070,51161, ,Roanoke VA,"Catawba, VA",446,0.734
+24072,51063, ,Floyd VA,"Check, VA",605,1
+24073,51121, ,Montgomery VA,"Christiansburg, VA",13314,1
+24076,51141, ,Patrick VA,"Claudville, VA",517,1
+24077,51023, ,Botetourt VA,"Cloverdale, VA",447,1
+24078,51089, ,Henry VA,"Collinsville, VA",3559,1
+24079,51063, ,Floyd VA,"Copper Hill, VA",940,0.994
+24079,51067, ,Franklin VA,"Copper Hill, VA",6,0.006
+24082,51141, ,Patrick VA,"Critz, VA",182,1
+24083,51023, ,Botetourt VA,"Daleville, VA",1172,1
+24084,51021, ,Bland VA,"Dublin, VA",161,0.031
+24084,51155, ,Pulaski VA,"Dublin, VA",5027,0.969
+24085,51005, ,Alleghany VA,"Eagle Rock, VA",5,0.004
+24085,51023, ,Botetourt VA,"Eagle Rock, VA",1290,0.996
+24086,51071, ,Giles VA,"Eggleston, VA",112,1
+24087,51121, ,Montgomery VA,"Elliston, VA",1651,0.967
+24087,51161, ,Roanoke VA,"Elliston, VA",56,0.033
+24088,51067, ,Franklin VA,"Ferrum, VA",2243,0.951
+24088,51141, ,Patrick VA,"Ferrum, VA",116,0.049
+24089,51089, ,Henry VA,"Fieldale, VA",1327,1
+24090,51023, ,Botetourt VA,"Fincastle, VA",2057,1
+24091,51063, ,Floyd VA,"Floyd, VA",3580,0.981
+24091,51067, ,Franklin VA,"Floyd, VA",36,0.01
+24091,51141, ,Patrick VA,"Floyd, VA",34,0.009
+24092,51067, ,Franklin VA,"Glade Hill, VA",1473,1
+24093,51071, ,Giles VA,"Glen Lyn, VA",97,1
+24095,51019, ,Bedford VA  (R),"Goodview, VA",2177,1
+24101,51019, ,Bedford VA  (R),"Hardy, VA",373,0.127
+24101,51067, ,Franklin VA,"Hardy, VA",2569,0.873
+24102,51067, ,Franklin VA,"Henry, VA",981,0.944
+24102,51089, ,Henry VA,"Henry, VA",58,0.056
+24104,51019, ,Bedford VA  (R),"Huddleston, VA",2608,1
+24105,51035, ,Carroll VA,"Indian Valley, VA",42,0.157
+24105,51063, ,Floyd VA,"Indian Valley, VA",225,0.843
+24112,51067, ,Franklin VA,"Martinsville, VA",497,0.031
+24112,51089, ,Henry VA,"Martinsville, VA",8490,0.524
+24112,51690, ,Martinsville city VA,"Martinsville, VA",7205,0.445
+24120,51035, ,Carroll VA,"Meadows Of Dan, VA",130,0.101
+24120,51063, ,Floyd VA,"Meadows Of Dan, VA",274,0.213
+24120,51141, ,Patrick VA,"Meadows Of Dan, VA",884,0.686
+24121,51019, ,Bedford VA  (R),"Moneta, VA",3832,0.529
+24121,51067, ,Franklin VA,"Moneta, VA",3409,0.471
+24122,51019, ,Bedford VA  (R),"Montvale, VA",778,1
+24124,51021, ,Bland VA,"Narrows, VA",127,0.062
+24124,51071, ,Giles VA,"Narrows, VA",1930,0.938
+24127,51045, ,Craig VA,"New Castle, VA",2298,1
+24128,51045, ,Craig VA,"Newport, VA",254,0.268
+24128,51071, ,Giles VA,"Newport, VA",695,0.732
+24130,51023, ,Botetourt VA,"Oriskany, VA",15,1
+24131,51045, ,Craig VA,"Paint Bank, VA",104,1
+24132,51155, ,Pulaski VA,"Parrott, VA",241,1
+24133,51141, ,Patrick VA,"Patrick Springs, VA",1340,1
+24134,51071, ,Giles VA,"Pearisburg, VA",2665,1
+24136,51071, ,Giles VA,"Pembroke, VA",1671,1
+24137,51067, ,Franklin VA,"Penhook, VA",1654,0.722
+24137,51143, ,Pittsylvania VA,"Penhook, VA",636,0.278
+24138,51063, ,Floyd VA,"Pilot, VA",315,0.451
+24138,51121, ,Montgomery VA,"Pilot, VA",384,0.549
+24139,51019, ,Bedford VA  (R),"Pittsville, VA",70,0.178
+24139,51143, ,Pittsylvania VA,"Pittsville, VA",324,0.822
+24141,51063, ,Floyd VA,"Radford, VA",74,0.007
+24141,51121, ,Montgomery VA,"Radford, VA",684,0.069
+24141,51155, ,Pulaski VA,"Radford, VA",2782,0.279
+24141,51750, ,Radford city VA,"Radford, VA",6427,0.645
+24147,51071, ,Giles VA,"Rich Creek, VA",541,1
+24148,51089, ,Henry VA,"Ridgeway, VA",3853,1
+24149,51063, ,Floyd VA,"Riner, VA",420,0.277
+24149,51121, ,Montgomery VA,"Riner, VA",1096,0.723
+24150,51071, ,Giles VA,"Ripplemead, VA",436,1
+24151,51067, ,Franklin VA,"Rocky Mount, VA",9057,1
+24153,51023, ,Botetourt VA,"Salem, VA",12,0.001
+24153,51161, ,Roanoke VA,"Salem, VA",5095,0.32
+24153,51775, ,Salem city VA,"Salem, VA",10832,0.68
+24161,51143, ,Pittsylvania VA,"Sandy Level, VA",288,1
+24162,51063, ,Floyd VA,"Shawsville, VA",15,0.013
+24162,51121, ,Montgomery VA,"Shawsville, VA",1108,0.987
+24165,51089, ,Henry VA,"Spencer, VA",524,0.637
+24165,51141, ,Patrick VA,"Spencer, VA",298,0.363
+24167,51071, ,Giles VA,"Staffordsville, VA",157,1
+24168,51089, ,Henry VA,"Stanleytown, VA",102,1
+24171,51141, ,Patrick VA,"Stuart, VA",4362,1
+24174,51019, ,Bedford VA  (R),"Thaxton, VA",1200,1
+24175,51023, ,Botetourt VA,"Troutville, VA",3624,0.994
+24175,51161, ,Roanoke VA,"Troutville, VA",21,0.006
+24176,51067, ,Franklin VA,"Union Hall, VA",1300,1
+24179,51019, ,Bedford VA  (R),"Vinton, VA",2541,0.305
+24179,51161, ,Roanoke VA,"Vinton, VA",5777,0.695
+24184,51067, ,Franklin VA,"Wirtz, VA",2408,1
+24185,51141, ,Patrick VA,"Woolwine, VA",503,1
+24201,51520, ,Bristol city VA,"Bristol, VA",8469,1
+24202,51169, ,Scott VA,"Bristol, VA",232,0.039
+24202,51191, ,Washington VA,"Bristol, VA",5322,0.9
+24202,51520, ,Bristol city VA,"Bristol, VA",362,0.061
+24210,51191, ,Washington VA,"Abingdon, VA",7966,1
+24211,51191, ,Washington VA,"Abingdon, VA",4730,1
+24216,51195, ,Wise VA,"Appalachia, VA",1436,1
+24217,51027, ,Buchanan VA,"Bee, VA",48,0.214
+24217,51051, ,Dickenson VA,"Bee, VA",176,0.786
+24219,51105, ,Lee VA,"Big Stone Gap, VA",605,0.13
+24219,51195, ,Wise VA,"Big Stone Gap, VA",4047,0.87
+24220,51051, ,Dickenson VA,"Birchleaf, VA",404,1
+24221,51105, ,Lee VA,"Blackwater, VA",324,0.587
+24221,51169, ,Scott VA,"Blackwater, VA",228,0.413
+24224,51167, ,Russell VA,"Castlewood, VA",3114,1
+24225,51167, ,Russell VA,"Cleveland, VA",862,1
+24226,51051, ,Dickenson VA,"Clinchco, VA",720,1
+24228,51051, ,Dickenson VA,"Clintwood, VA",3423,1
+24230,51051, ,Dickenson VA,"Coeburn, VA",762,0.174
+24230,51169, ,Scott VA,"Coeburn, VA",174,0.04
+24230,51195, ,Wise VA,"Coeburn, VA",3450,0.787
+24236,51191, ,Washington VA,"Damascus, VA",1655,1
+24237,51051, ,Dickenson VA,"Dante, VA",309,0.494
+24237,51167, ,Russell VA,"Dante, VA",316,0.506
+24239,51027, ,Buchanan VA,"Davenport, VA",65,1
+24243,51105, ,Lee VA,"Dryden, VA",943,1
+24244,51105, ,Lee VA,"Duffield, VA",457,0.162
+24244,51169, ,Scott VA,"Duffield, VA",2371,0.838
+24245,51169, ,Scott VA,"Dungannon, VA",640,1
+24246,51195, ,Wise VA,"East Stone Gap, VA (PO Boxes)",202,1
+24248,51105, ,Lee VA,"Ewing, VA",1283,1
+24250,51169, ,Scott VA,"Fort Blackmore, VA",703,1
+24251,51169, ,Scott VA,"Gate City, VA",4417,1
+24256,51027, ,Buchanan VA,"Haysi, VA",339,0.213
+24256,51051, ,Dickenson VA,"Haysi, VA",1251,0.787
+24258,51169, ,Scott VA,"Hiltons, VA",790,0.979
+24258,51191, ,Washington VA,"Hiltons, VA",17,0.021
+24260,51027, ,Buchanan VA,"Honaker, VA",537,0.2
+24260,51167, ,Russell VA,"Honaker, VA",2149,0.8
+24263,51105, ,Lee VA,"Jonesville, VA",3185,1
+24265,51105, ,Lee VA,"Keokee, VA",441,1
+24266,51167, ,Russell VA,"Lebanon, VA",4427,1
+24269,51051, ,Dickenson VA,"Mc Clure, VA",158,1
+24270,51191, ,Washington VA,"Mendota, VA",305,1
+24271,51169, ,Scott VA,"Nickelsville, VA",1405,1
+24272,51051, ,Dickenson VA,"Nora, VA",255,1
+24273,51195, ,Wise VA,"Norton, VA",1068,0.354
+24273,51720, ,Norton city VA,"Norton, VA",1945,0.646
+24277,51105, ,Lee VA,"Pennington Gap, VA",2868,1
+24279,51195, ,Wise VA,"Pound, VA",2197,1
+24280,51167, ,Russell VA,"Rosedale, VA",363,1
+24281,51105, ,Lee VA,"Rose Hill, VA",1272,1
+24282,51105, ,Lee VA,"Saint Charles, VA",367,1
+24283,51051, ,Dickenson VA,"Saint Paul, VA",77,0.073
+24283,51167, ,Russell VA,"Saint Paul, VA",101,0.096
+24283,51195, ,Wise VA,"Saint Paul, VA",875,0.831
+24290,51169, ,Scott VA,"Weber City, VA",956,1
+24292,51077, ,Grayson VA,"Whitetop, VA",341,1
+24293,51195, ,Wise VA,"Wise, VA",4665,1
+24301,51155, ,Pulaski VA,"Pulaski, VA",7053,1
+24311,51173, ,Smyth VA,"Atkins, VA",972,1
+24312,51035, ,Carroll VA,"Austinville, VA",684,0.57
+24312,51197, ,Wythe VA,"Austinville, VA",515,0.43
+24313,51155, ,Pulaski VA,"Barren Springs, VA",5,0.012
+24313,51197, ,Wythe VA,"Barren Springs, VA",395,0.987
+24314,51021, ,Bland VA,"Bastian, VA",685,0.898
+24314,51185, ,Tazewell VA,"Bastian, VA",78,0.102
+24315,51021, ,Bland VA,"Bland, VA",1577,0.991
+24315,51071, ,Giles VA,"Bland, VA",15,0.009
+24316,51185, ,Tazewell VA,"Broadford, VA",20,1
+24317,51035, ,Carroll VA,"Cana, VA",1995,1
+24318,51021, ,Bland VA,"Ceres, VA",300,0.679
+24318,51173, ,Smyth VA,"Ceres, VA",142,0.321
+24319,51173, ,Smyth VA,"Chilhowie, VA",2793,0.888
+24319,51191, ,Washington VA,"Chilhowie, VA",351,0.112
+24322,51197, ,Wythe VA,"Cripple Creek, VA",98,1
+24323,51197, ,Wythe VA,"Crockett, VA",314,1
+24324,51155, ,Pulaski VA,"Draper, VA",975,0.929
+24324,51197, ,Wythe VA,"Draper, VA",75,0.071
+24325,51035, ,Carroll VA,"Dugspur, VA",813,1
+24326,51077, ,Grayson VA,"Elk Creek, VA",752,1
+24328,51035, ,Carroll VA,"Fancy Gap, VA",1610,1
+24330,51035, ,Carroll VA,"Fries, VA",407,0.213
+24330,51077, ,Grayson VA,"Fries, VA",1506,0.787
+24333,51035, ,Carroll VA,"Galax, VA",3092,0.348
+24333,51077, ,Grayson VA,"Galax, VA",2535,0.286
+24333,51640, ,Galax city VA,"Galax, VA",3252,0.366
+24340,51191, ,Washington VA,"Glade Spring, VA",2608,1
+24343,51035, ,Carroll VA,"Hillsville, VA",4673,0.957
+24343,51141, ,Patrick VA,"Hillsville, VA",184,0.038
+24343,51197, ,Wythe VA,"Hillsville, VA",26,0.005
+24347,51035, ,Carroll VA,"Hiwassee, VA",34,0.031
+24347,51121, ,Montgomery VA,"Hiwassee, VA",68,0.062
+24347,51155, ,Pulaski VA,"Hiwassee, VA",992,0.907
+24348,51077, ,Grayson VA,"Independence, VA",2388,1
+24350,51035, ,Carroll VA,"Ivanhoe, VA",169,0.259
+24350,51077, ,Grayson VA,"Ivanhoe, VA",51,0.078
+24350,51197, ,Wythe VA,"Ivanhoe, VA",433,0.663
+24351,51035, ,Carroll VA,"Lambsburg, VA",345,1
+24352,51035, ,Carroll VA,"Laurel Fork, VA",562,0.995
+24352,51063, ,Floyd VA,"Laurel Fork, VA",3,0.005
+24354,51173, ,Smyth VA,"Marion, VA",7295,1
+24360,51197, ,Wythe VA,"Max Meadows, VA",2737,1
+24361,51191, ,Washington VA,"Meadowview, VA",2185,1
+24363,51077, ,Grayson VA,"Mouth Of Wilson, VA",908,1
+24366,51021, ,Bland VA,"Rocky Gap, VA",415,1
+24368,51173, ,Smyth VA,"Rural Retreat, VA",399,0.173
+24368,51197, ,Wythe VA,"Rural Retreat, VA",1904,0.827
+24370,51173, ,Smyth VA,"Saltville, VA",2684,0.853
+24370,51191, ,Washington VA,"Saltville, VA",462,0.147
+24374,51197, ,Wythe VA,"Speedwell, VA",393,1
+24375,51173, ,Smyth VA,"Sugar Grove, VA",991,1
+24377,51185, ,Tazewell VA,"Tannersville, VA",220,1
+24378,51077, ,Grayson VA,"Troutdale, VA",675,0.817
+24378,51173, ,Smyth VA,"Troutdale, VA",151,0.183
+24380,51035, ,Carroll VA,"Willis, VA",10,0.007
+24380,51063, ,Floyd VA,"Willis, VA",1339,0.993
+24381,51035, ,Carroll VA,"Woodlawn, VA",1955,1
+24382,51197, ,Wythe VA,"Wytheville, VA",7189,1
+24401,51015, ,Augusta VA,"Staunton, VA",5267,0.31
+24401,51790, ,Staunton city VA,"Staunton, VA",11738,0.69
+24411,51015, ,Augusta VA,"Augusta Springs, VA",50,1
+24412,51017, ,Bath VA,"Bacova, VA (PO Boxes)",73,1
+24413,51091, ,Highland VA,"Blue Grass, VA",140,1
+24415,51163, ,Rockbridge VA,"Brownsburg, VA (PO Boxes)",25,1
+24416,51163, ,Rockbridge VA,"Buena Vista, VA",951,0.245
+24416,51530, ,Buena Vista city VA,"Buena Vista, VA",2936,0.755
+24421,51015, ,Augusta VA,"Churchville, VA",1678,1
+24422,51005, ,Alleghany VA,"Clifton Forge, VA",3182,0.973
+24422,51023, ,Botetourt VA,"Clifton Forge, VA",88,0.027
+24426,51005, ,Alleghany VA,"Covington, VA",4043,0.569
+24426,51580, ,Covington city VA,"Covington, VA",3067,0.431
+24430,51015, ,Augusta VA,"Craigsville, VA",718,1
+24431,51015, ,Augusta VA,"Crimora, VA",1137,1
+24432,51015, ,Augusta VA,"Deerfield, VA",205,0.928
+24432,51017, ,Bath VA,"Deerfield, VA",16,0.072
+24433,51091, ,Highland VA,"Doe Hill, VA",59,1
+24435,51163, ,Rockbridge VA,"Fairfield, VA",913,1
+24437,51015, ,Augusta VA,"Fort Defiance, VA",374,1
+24439,51015, ,Augusta VA,"Goshen, VA",116,0.158
+24439,51163, ,Rockbridge VA,"Goshen, VA",617,0.842
+24440,51015, ,Augusta VA,"Greenville, VA",1108,1
+24441,51015, ,Augusta VA,"Grottoes, VA",957,0.373
+24441,51165, ,Rockingham VA,"Grottoes, VA",1612,0.627
+24442,51091, ,Highland VA,"Head Waters, VA",144,1
+24445,51005, ,Alleghany VA,"Hot Springs, VA",281,0.177
+24445,51017, ,Bath VA,"Hot Springs, VA",1309,0.823
+24448,51005, ,Alleghany VA,"Iron Gate, VA",177,1
+24450,51163, ,Rockbridge VA,"Lexington, VA",4836,0.655
+24450,51678, ,Lexington city VA,"Lexington, VA",2546,0.345
+24457,51005, ,Alleghany VA,"Low Moor, VA",140,1
+24458,51091, ,Highland VA,"Mc Dowell, VA",370,1
+24459,51015, ,Augusta VA,"Middlebrook, VA",364,0.892
+24459,51163, ,Rockbridge VA,"Middlebrook, VA",44,0.108
+24460,51017, ,Bath VA,"Millboro, VA",1090,1
+24464,51125, ,Nelson VA,"Montebello, VA",213,1
+24465,51091, ,Highland VA,"Monterey, VA",1001,1
+24467,51015, ,Augusta VA,"Mount Sidney, VA",918,1
+24471,51165, ,Rockingham VA,"Port Republic, VA",598,1
+24472,51015, ,Augusta VA,"Raphine, VA",420,0.385
+24472,51163, ,Rockbridge VA,"Raphine, VA",672,0.615
+24473,51163, ,Rockbridge VA,"Rockbridge Baths, VA",534,1
+24474,51005, ,Alleghany VA,"Selma, VA",246,1
+24476,51015, ,Augusta VA,"Steeles Tavern, VA (PO Boxes)",129,1
+24477,51015, ,Augusta VA,"Stuarts Draft, VA",4539,1
+24479,51015, ,Augusta VA,"Swoope, VA",709,1
+24482,51015, ,Augusta VA,"Verona, VA",1840,1
+24483,51009, ,Amherst VA,"Vesuvius, VA",105,0.276
+24483,51163, ,Rockbridge VA,"Vesuvius, VA",276,0.724
+24484,51017, ,Bath VA,"Warm Springs, VA",585,0.91
+24484,51091, ,Highland VA,"Warm Springs, VA",58,0.09
+24485,51015, ,Augusta VA,"West Augusta, VA",297,1
+24486,51015, ,Augusta VA,"Weyers Cave, VA",1241,0.934
+24486,51165, ,Rockingham VA,"Weyers Cave, VA",87,0.066
+24487,51017, ,Bath VA,"Williamsville, VA",197,0.752
+24487,51091, ,Highland VA,"Williamsville, VA",65,0.248
+24501,51031, ,Campbell VA,"Lynchburg, VA",2250,0.19
+24501,51680, ,Lynchburg city VA,"Lynchburg, VA",9588,0.81
+24502,51019, ,Bedford VA  (R),"Lynchburg, VA",348,0.02
+24502,51031, ,Campbell VA,"Lynchburg, VA",5046,0.289
+24502,51680, ,Lynchburg city VA,"Lynchburg, VA",12095,0.692
+24503,51019, ,Bedford VA  (R),"Lynchburg, VA",1912,0.219
+24503,51680, ,Lynchburg city VA,"Lynchburg, VA",6812,0.781
+24504,51011, ,Appomattox VA,"Lynchburg, VA",32,0.007
+24504,51031, ,Campbell VA,"Lynchburg, VA",1127,0.246
+24504,51680, ,Lynchburg city VA,"Lynchburg, VA",3427,0.747
+24517,51031, ,Campbell VA,"Altavista, VA",2688,1
+24520,51083, ,Halifax VA,"Alton, VA",1200,1
+24521,51009, ,Amherst VA,"Amherst, VA",4656,0.977
+24521,51125, ,Nelson VA,"Amherst, VA",111,0.023
+24522,51011, ,Appomattox VA,"Appomattox, VA",4250,0.994
+24522,51029, ,Buckingham VA,"Appomattox, VA",26,0.006
+24523,51019, ,Bedford VA  (R),"Bedford, VA",8760,1
+24526,51019, ,Bedford VA  (R),"Big Island, VA",780,1
+24527,51143, ,Pittsylvania VA,"Blairs, VA",1326,1
+24528,51031, ,Campbell VA,"Brookneal, VA",1314,0.814
+24528,51037, ,Charlotte VA,"Brookneal, VA",301,0.186
+24529,51117, ,Mecklenburg VA,"Buffalo Junction, VA",994,1
+24530,51089, ,Henry VA,"Callands, VA",5,0.008
+24530,51143, ,Pittsylvania VA,"Callands, VA",586,0.992
+24531,51143, ,Pittsylvania VA,"Chatham, VA",4596,1
+24534,51083, ,Halifax VA,"Clover, VA",956,1
+24536,51019, ,Bedford VA  (R),"Coleman Falls, VA",99,1
+24538,51011, ,Appomattox VA,"Concord, VA",716,0.341
+24538,51031, ,Campbell VA,"Concord, VA",1381,0.659
+24539,51083, ,Halifax VA,"Crystal Hill, VA",86,1
+24540,51143, ,Pittsylvania VA,"Danville, VA",5842,0.371
+24540,51590, ,Danville city VA,"Danville, VA",9915,0.629
+24541,51143, ,Pittsylvania VA,"Danville, VA",2128,0.145
+24541,51590, ,Danville city VA,"Danville, VA",12523,0.855
+24549,51143, ,Pittsylvania VA,"Dry Fork, VA",1964,1
+24550,51019, ,Bedford VA  (R),"Evington, VA",177,0.057
+24550,51031, ,Campbell VA,"Evington, VA",2949,0.943
+24551,51019, ,Bedford VA  (R),"Forest, VA",7021,0.846
+24551,51031, ,Campbell VA,"Forest, VA",1211,0.146
+24551,51680, ,Lynchburg city VA,"Forest, VA",70,0.008
+24553,51009, ,Amherst VA,"Gladstone, VA",226,0.233
+24553,51011, ,Appomattox VA,"Gladstone, VA",263,0.271
+24553,51029, ,Buckingham VA,"Gladstone, VA",209,0.216
+24553,51125, ,Nelson VA,"Gladstone, VA",271,0.28
+24554,51031, ,Campbell VA,"Gladys, VA",1876,1
+24555,51163, ,Rockbridge VA,"Glasgow, VA",1044,1
+24556,51019, ,Bedford VA  (R),"Goode, VA",1267,1
+24557,51083, ,Halifax VA,"Gretna, VA",23,0.005
+24557,51143, ,Pittsylvania VA,"Gretna, VA",4263,0.995
+24558,51083, ,Halifax VA,"Halifax, VA",3042,1
+24562,51003, ,Albemarle VA,"Howardsville, VA",11,0.05
+24562,51029, ,Buckingham VA,"Howardsville, VA",156,0.709
+24562,51125, ,Nelson VA,"Howardsville, VA",53,0.241
+24563,51143, ,Pittsylvania VA,"Hurt, VA",2779,1
+24565,51083, ,Halifax VA,"Java, VA",60,0.091
+24565,51143, ,Pittsylvania VA,"Java, VA",596,0.909
+24566,51143, ,Pittsylvania VA,"Keeling, VA",640,1
+24569,51031, ,Campbell VA,"Long Island, VA",76,0.155
+24569,51083, ,Halifax VA,"Long Island, VA",107,0.219
+24569,51143, ,Pittsylvania VA,"Long Island, VA",306,0.626
+24570,51019, ,Bedford VA  (R),"Lowry, VA",10,1
+24571,51019, ,Bedford VA  (R),"Lynch Station, VA",262,0.249
+24571,51031, ,Campbell VA,"Lynch Station, VA",792,0.751
+24572,51009, ,Amherst VA,"Madison Heights, VA",7016,1
+24574,51009, ,Amherst VA,"Monroe, VA",1714,1
+24577,51083, ,Halifax VA,"Nathalie, VA",2775,1
+24578,51163, ,Rockbridge VA,"Natural Bridge, VA",516,1
+24579,51163, ,Rockbridge VA,"Natural Bridge Station, VA",681,1
+24580,51117, ,Mecklenburg VA,"Nelson, VA",298,1
+24581,51125, ,Nelson VA,"Norwood, VA",27,1
+24586,51143, ,Pittsylvania VA,"Ringgold, VA",2618,1
+24588,51031, ,Campbell VA,"Rustburg, VA",4025,1
+24589,51083, ,Halifax VA,"Scottsburg, VA",1099,1
+24590,51003, ,Albemarle VA,"Scottsville, VA",1478,0.416
+24590,51029, ,Buckingham VA,"Scottsville, VA",918,0.259
+24590,51065, ,Fluvanna VA,"Scottsville, VA",1153,0.325
+24592,51083, ,Halifax VA,"South Boston, VA",6707,1
+24593,51011, ,Appomattox VA,"Spout Spring, VA",916,1
+24594,51083, ,Halifax VA,"Sutherlin, VA",277,0.339
+24594,51143, ,Pittsylvania VA,"Sutherlin, VA",539,0.661
+24595,51009, ,Amherst VA,"Sweet Briar, VA (PO Boxes)",74,1
+24597,51083, ,Halifax VA,"Vernon Hill, VA",562,0.884
+24597,51143, ,Pittsylvania VA,"Vernon Hill, VA",74,0.116
+24598,51083, ,Halifax VA,"Virgilina, VA",1018,0.985
+24598,51117, ,Mecklenburg VA,"Virgilina, VA",16,0.015
+24599,51029, ,Buckingham VA,"Wingina, VA",187,0.567
+24599,51125, ,Nelson VA,"Wingina, VA",143,0.433
+24601,51185, ,Tazewell VA,"Amonate, VA (PO Boxes)",55,1
+24602,51185, ,Tazewell VA,"Bandy, VA",456,1
+24603,51027, ,Buchanan VA,"Big Rock, VA",499,1
+24604,51185, ,Tazewell VA,"Bishop, VA (PO Boxes)",132,1
+24605,51185, ,Tazewell VA,"Bluefield, VA",4293,1
+24606,51185, ,Tazewell VA,"Boissevain, VA (PO Boxes)",92,1
+24607,51027, ,Buchanan VA,"Breaks, VA (PO Boxes)",176,0.8
+24607,51051, ,Dickenson VA,"Breaks, VA (PO Boxes)",44,0.2
+24609,51167, ,Russell VA,"Cedar Bluff, VA",888,0.249
+24609,51185, ,Tazewell VA,"Cedar Bluff, VA",2681,0.751
+24612,51185, ,Tazewell VA,"Doran, VA (PO Boxes)",126,1
+24613,51185, ,Tazewell VA,"Falls Mills, VA",433,1
+24614,51027, ,Buchanan VA,"Grundy, VA",3925,1
+24620,51027, ,Buchanan VA,"Hurley, VA",1344,1
+24622,51027, ,Buchanan VA,"Jewell Ridge, VA",279,0.548
+24622,51185, ,Tazewell VA,"Jewell Ridge, VA",230,0.452
+24628,51027, ,Buchanan VA,"Maxie, VA",139,1
+24630,51185, ,Tazewell VA,"North Tazewell, VA",3150,1
+24631,51027, ,Buchanan VA,"Oakwood, VA",1105,1
+24634,51027, ,Buchanan VA,"Pilgrims Knob, VA",274,1
+24635,51185, ,Tazewell VA,"Pocahontas, VA (PO Boxes)",330,1
+24637,51185, ,Tazewell VA,"Pounding Mill, VA",1480,1
+24639,51027, ,Buchanan VA,"Raven, VA",573,0.348
+24639,51167, ,Russell VA,"Raven, VA",8,0.005
+24639,51185, ,Tazewell VA,"Raven, VA",1065,0.647
+24641,51185, ,Tazewell VA,"Richlands, VA",2934,1
+24646,51027, ,Buchanan VA,"Rowe, VA",372,1
+24649,51027, ,Buchanan VA,"Swords Creek, VA",4,0.003
+24649,51167, ,Russell VA,"Swords Creek, VA",1256,0.997
+24651,51185, ,Tazewell VA,"Tazewell, VA",3051,1
+24656,51027, ,Buchanan VA,"Vansant, VA",1724,1
+24657,51027, ,Buchanan VA,"Whitewood, VA",173,1
+99999,51001, ,Accomack VA,99999,1,0.167
+99999,51131, ,Northampton VA,99999,5,0.833
